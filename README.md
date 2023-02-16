@@ -1,2 +1,3 @@
-# My-Codewars-Dump
-just a codewards dump to save my thoughts
+## my codewars challenge code dump
+
+just saving my thoughts
