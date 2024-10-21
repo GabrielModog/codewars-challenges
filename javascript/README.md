@@ -21,7 +21,25 @@
   - CamelCase Method
   - Duplicate Encode
   - High
+  - Draw Lines
+  - Strings, strings, strings (Hard)
+  - Partial Keys
+  - Find the unique number
+  - Replace With Alphabet Position
+  - Delete occurrences of an element if it occurs more than n times
+  - Duplicate Arguments
+  - Sort My Animals
+  - Maze Runner
+  - Take a Ten Minutes Walk
 - 5 kyu
   - Fibonacci
   - Human Readable
   - Valid Parentheses
+  - Maze Solver
+  - Scramble
+  - Max Sum Path
+  - Find Unique String
+  - Binary Tree Traversal
+  - Trees to Parentheses, and Back
+  - Maximum subarray sum
+  - ROT13
