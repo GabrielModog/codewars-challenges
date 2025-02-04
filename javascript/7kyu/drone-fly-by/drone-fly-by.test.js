@@ -2,7 +2,7 @@ const chai = require("chai");
 const assert = chai.assert;
 chai.config.truncateThreshold = 0;
 
-const flyBy = require("./drone-fly-by")
+const { flyBy } = require("./drone-fly-by")
 
 describe("Drone Fly-By", () => {
   it("Testing for fixed tests", () => {

@@ -1,4 +1,4 @@
-export function flyBy(lamps, drone) {
+function flyBy(lamps, drone) {
   let lampsArr = lamps.split("")
   const steps = Math.min(lamps.length, drone.length)
   for (let i = 0; i < steps; i++) {
@@ -6,3 +6,5 @@ export function flyBy(lamps, drone) {
   }
   return lampsArr.join("")
 }
+
+module.exports = flyBy
